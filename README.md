@@ -1,6 +1,6 @@
 ### Hello!
-I am basedSkeleton. I don't use github much but I'm here.
-My discord is basedSkeleton#0713 if you'd like to contact me.
+Hi, I'm basedSkeleton! I'm not too active on github and I make very few commits/issues.
+You can contact me on discord, my tag is basedSkeleton#0829
 
 <!--
 **basedSkeleton/basedSkeleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
